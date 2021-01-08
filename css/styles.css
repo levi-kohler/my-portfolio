@@ -48,7 +48,7 @@ img.professional {
 }
 
 .box {
-  Vertical-align: middle;
+  margin: auto;
   width: 50%;
   border: solid black;
   border-width: 2px;
