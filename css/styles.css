@@ -8,6 +8,11 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  color: blue;
+  text-align: center;
+}
+
 img.personal  {
   width: 15%;
   height: auto;
@@ -23,12 +28,12 @@ img.professional {
 }
 
 .personalsidebar {
-  width: 60%;
+  width: 40%;
   float: center;
 }
 
 .professionalsidebar {
-  width: 40%;
+  width: 20%;
   float: right;
 }
 
