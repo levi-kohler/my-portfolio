@@ -68,3 +68,7 @@ img.professional {
   margin-bottom: 5px;
   box-sizing: border-box;
 }
+
+.box ul li{
+text-align: center;
+}
