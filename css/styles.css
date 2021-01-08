@@ -21,20 +21,20 @@ img.personal  {
   height: auto;
   float: left;
   padding: 8px;
-  margin-left: 40px;
+  margin-left: 120px;
 }
 
 img.professional {
-  width: 15%;
+  width: 20%;
   height: auto;
   float: right;
   padding: 8px;
-  margin-right: 40px;
+  margin-right: 120px;
 }
 
 .personalsidebar {
-  width: 40%;
-  float: center;
+  width: 20%;
+  float: left;
 }
 
 .professionalsidebar {
