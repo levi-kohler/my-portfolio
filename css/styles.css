@@ -1,3 +1,7 @@
+body {
+  background-color: rgb(146, 165, 184);
+}
+
 h1 {
   text-align: center;
 }
@@ -48,8 +52,9 @@ img.professional {
 }
 
 .box {
+  text-align: center;
   margin: auto;
-  width: 50%;
+  width: 75%;
   border: solid black;
   border-width: 2px;
   background-color: yellow;
