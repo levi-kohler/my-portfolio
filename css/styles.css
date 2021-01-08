@@ -46,3 +46,13 @@ img.professional {
 .emphasize {
   font-style: italic;
 }
+
+.box {
+  Vertical-align: middle;
+  width: 50%;
+  border: solid black;
+  border-width: 2px;
+  background-color: yellow;
+  margin-bottom: 5px;
+  box-sizing: border-box;
+}
