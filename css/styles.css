@@ -15,9 +15,21 @@ img.personal  {
   padding: 8px;
 }
 
+img.professional {
+  width: 15%;
+  height: auto;
+  float: right;
+  padding: 8px;
+}
+
 .personalsidebar {
   width: 60%;
   float: center;
+}
+
+.professionalsidebar {
+  width: 40%;
+  float: right;
 }
 
 #footer {
