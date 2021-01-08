@@ -58,6 +58,7 @@ img.professional {
 
 .box {
   text-align: center;
+  list-style: inside;
   color: white;
   margin: auto;
   padding: 5px;
