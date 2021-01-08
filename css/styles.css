@@ -6,6 +6,9 @@ h1 {
 h2 {
   color: blue;
   text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  
 }
 
 h3 {
@@ -18,6 +21,7 @@ img.personal  {
   height: auto;
   float: left;
   padding: 8px;
+  margin-left: 40px;
 }
 
 img.professional {
@@ -25,6 +29,7 @@ img.professional {
   height: auto;
   float: right;
   padding: 8px;
+  margin-right: 40px;
 }
 
 .personalsidebar {
