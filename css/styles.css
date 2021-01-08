@@ -10,6 +10,7 @@ h2 {
   text-align: center;
   margin-left: 20%;
   margin-right: 20%;
+  color: white;
   
 }
 
@@ -22,7 +23,7 @@ img.personal  {
   height: auto;
   float: left;
   padding: 8px;
-  margin-left: 120px;
+  margin-left: 200px;
 }
 
 img.professional {
@@ -30,7 +31,7 @@ img.professional {
   height: auto;
   float: right;
   padding: 8px;
-  margin-right: 120px;
+  margin-right: 200px;
 }
 
 .personalsidebar {
@@ -53,11 +54,12 @@ img.professional {
 
 .box {
   text-align: center;
+  color: white;
   margin: auto;
   width: 75%;
   border: solid black;
   border-width: 2px;
-  background-color: yellow;
+  background-color: rgb(48, 69, 97);
   margin-bottom: 5px;
   box-sizing: border-box;
 }
