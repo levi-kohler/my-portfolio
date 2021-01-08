@@ -1,5 +1,6 @@
 body {
   background-color: rgb(146, 165, 184);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 h1 {
@@ -25,7 +26,7 @@ img.personal  {
   width: 17%;
   height: auto;
   float: left;
-  padding: 8px;
+  padding: 14px;
   margin-left: 200px;
 }
 
@@ -33,17 +34,17 @@ img.professional {
   width: 20%;
   height: auto;
   float: right;
-  padding: 8px;
+  padding: 14px;
   margin-right: 200px;
 }
 
 .personalsidebar {
-  width: 40%;
+  width: 50%;
   float: left;
 }
 
 .professionalsidebar {
-  width: 40%;
+  width: 49%;
   float: right;
 }
 
