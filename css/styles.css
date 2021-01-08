@@ -18,6 +18,10 @@ h3 {
   color: white;
 }
 
+.headers h4 {
+  font-style: bold;
+}
+
 a {
   color: orange;
 }
