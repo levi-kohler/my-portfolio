@@ -70,6 +70,9 @@ img.professional {
   box-sizing: border-box;
 }
 
-.box ul li{
-text-align: center;
+.ul-left {
+  text-align: left;
+  width: 60%;
+  position: relative;
+  left: 43%;
 }
