@@ -18,6 +18,10 @@ h3 {
   text-align: center;
 }
 
+a {
+  color: white;
+}
+
 img.personal  {
   width: 17%;
   height: auto;
@@ -56,6 +60,7 @@ img.professional {
   text-align: center;
   color: white;
   margin: auto;
+  padding: 5px;
   width: 75%;
   border: solid black;
   border-width: 2px;
