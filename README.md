@@ -14,6 +14,8 @@
 
 This HTML page introduces the user to me as a person as well as a professional. There is a portfolio of all the coding projects I have worked on so far. This page has been stylized with CSS.
 
+See site on GitHub Pages here: https://levi-kohler.github.io/my-portfolio/
+
 ## Setup/Installation Requirements
 
 * Clone this repository to your Desktop
@@ -22,7 +24,7 @@ This HTML page introduces the user to me as a person as well as a professional. 
 
 ## Known Bugs
 
-* None that I am aware of
+* Pictures don't show on GitHub Pages site
 
 ## License
 
